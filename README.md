@@ -1,1 +1,1 @@
-Simple Pig Latin Convertor
+Simple Pig Latin Convertor.
